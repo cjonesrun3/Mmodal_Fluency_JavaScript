@@ -1,7 +1,7 @@
 /*
 If you're someone that doesn't want to convert already existing .py 
 automation or just prefers using pyautogui this command is a means of running py
-files. 
+files by running the python translator and then passing a .py file as a parameter. 
 */
 	
 fd.GetAutoIt.Run('path/to/python.exe path/to/your .py'); 
