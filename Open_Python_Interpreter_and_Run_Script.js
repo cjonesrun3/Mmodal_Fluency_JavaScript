@@ -4,7 +4,7 @@ automation or just prefers using pyautogui this command is a means of running py
 files by running the python translator and then passing a .py file as a parameter. 
 */
 	
-fd.GetAutoIt.Run('path/to/python.exe path/to/your .py'); 
+fd.GetAutoIt.Run('path/to/python.exe path/to/your.py'); 
 /*
 Important - If either path contains a 'u' at the beggining of the directory
 name, then it will be interpreted as unicode and will throw 
